@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Bowen Thornley Legal`,
+    name: `Helen Bowen`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Restorative Justice`,
     hero: {
       heading: `Kia Ora! <br> Welcome to Bowen Thornley Legal`,
       maxWidth: 800,
