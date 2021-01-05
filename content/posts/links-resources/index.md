@@ -1,0 +1,39 @@
+---
+title: Links / Resources
+author: Helen Bowen
+date: 2019-04-30
+hero: ./images/hero.jpg
+excerpt:  Click here for links, information and research.
+---
+
+
+## Restorative Justice Links
+
+Article written in law news:
+[Article](https://www.example.com)
+
+What is restorative justice?
+[click here](https://www.example.com)
+
+## Legal aid / need help?
+
+Need information for yourself or someone you know?
+[drug and alochol nz](https://www.example.com) <br />
+Are you or someone you know in danger?
+[suicide hotline](https://www.example.com)
+
+---
+
+Contact Helen: <br />
+[helen@bowen.org.nz](mailto:helen@bowen.org.nz)
+phone: **021997294** <br />
+Contact Winsome: <br />
+[winsome@winsome.com](mailto:helen@bowen.org.nz)
+phone: **0211565728**
+
+
+
+
+
+
+
