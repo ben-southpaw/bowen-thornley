@@ -1,7 +1,7 @@
 ---
 title: Links / Resources
 author: Helen Bowen
-date: 2019-04-30
+date: 2021-01-30
 hero: ./images/hero.jpg
 excerpt:  Click here for links, information and research.
 ---

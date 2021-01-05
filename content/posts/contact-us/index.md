@@ -1,7 +1,7 @@
 ---
 title: Contact Us
-author: Helen Bowen
-date: 2019-04-30
+author: Helen Bowen,
+date: 2021-01-30
 hero: ./images/hero.jpg
 excerpt:  Click here for our contact details for consultation or advice.
 ---

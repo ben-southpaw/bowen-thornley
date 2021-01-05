@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 author: Helen Bowen
-date: 2019-04-30
+date: 2021-01-30
 hero: ./images/hero.jpg
 excerpt: Get to know us, learn why you can trust our judgement.
 ---
