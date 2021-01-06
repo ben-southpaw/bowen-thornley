@@ -23,7 +23,7 @@ function generateAuthorNames(authors: IAuthor[]) {
         return author.name;
       }
     })
-    .join(", ");
+    .join(" ");
 }
 
 interface AuthorsProps {
