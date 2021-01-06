@@ -20,7 +20,7 @@ phone: **021997294**
 ## Winsome Thornley
 
 email: 
-[winsome@winsome.com](mailto:helen@bowen.org.nz)
+[winsome@bowen.org.nz](mailto:winsome@bowen.org.nz)
 
 phone: **0211565728**
 
