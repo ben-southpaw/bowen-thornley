@@ -6,10 +6,10 @@ hero: ./images/hero.jpg
 excerpt: Click here for our contact details for consultation or advice.
 ---
 
-## Helen Bowen / Winsome Thornley
+## Helen Bowen & Winsome Thornley
 
 email:
-[BowenThornley@gmail.com](BowenThornley@gmail.com)
+[bowenthornley@gmail.com](bowenthornley@gmail.com)
 
 phone: **021997294**
 

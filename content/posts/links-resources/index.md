@@ -10,18 +10,26 @@ excerpt: Click here for links, information and research.
 
 Restorative Justice Aotearoa:
 
-[Click here to visit their page](https://www.restorativejusticeaotearoa.org.nz/)
+[Click here to view](https://www.restorativejusticeaotearoa.org.nz/)
 
 What is restorative justice?
 
-[click here](https://www.justice.govt.nz/courts/criminal/charged-with-a-crime/how-restorative-justice-works/) for NZ government resources.
+[Click here](https://www.justice.govt.nz/courts/criminal/charged-with-a-crime/how-restorative-justice-works/) for NZ government resources.
 
-## Legal aid / need help?
+## Links
+* [European Forum](http://www.europeanforum.org/) 
+* [Restorative Justice International](http://www.restorativejusticeinternational.com) 
+* [Margaret Thorsborne - Information & Resources](https://www.thorsborne.com.au/) 
+* [Partners of Prisoners UK](http://www.partnersofprisoners.co.uk) 
+* [NZ Justice Department](www.justice.govt.nz) 
+
 ---
+
+## Need help?
 
 Contact Helen: <br />
 [helen@bowen.org.nz](mailto:helen@bowen.org.nz)
 phone: **021997294** <br />
 Contact Winsome: <br />
-[winsome@winsome.com](mailto:helen@bowen.org.nz)
+[winsome@bowen.org.nz](mailto:winsome@bowen.org.nz)
 phone: **0211565728**

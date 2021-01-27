@@ -16,8 +16,8 @@ excerpt: Get to know us, learn why you can trust our judgement.
 
 #### Restorative Justice consultant
 
-International and Domestic Memberships:
 
+International and Domestic Memberships:
 - Global Advisory Committee Restorative Justice International
 - European Forum of Restorative Justice
 - Restorative Justice Aotearoa
@@ -26,11 +26,12 @@ International and Domestic Memberships:
 - Chairperson - Hei Tatau Pounamu Trust - post-sentence Restorative Justice
 - Trustee - Auckland Restorative Justice Trust
 
+
 <div className="Image__Small">
   <img
     src="./images/article-image-1.jpg"
     title="Logo Title Text 1"
-    alt="stock image"
+    alt="table"
   />
 </div>
 

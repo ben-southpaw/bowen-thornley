@@ -11,7 +11,7 @@ module.exports = {
     social: [
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/helenbowen2008/`,
+        url: `https://www.linkedin.com/in/bowenthornley-legal-3a0154205/`,
       }
     ],
   },
