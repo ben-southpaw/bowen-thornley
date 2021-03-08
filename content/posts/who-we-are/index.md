@@ -16,8 +16,10 @@ excerpt: Get to know us, learn why you can trust our judgement.
 
 #### Restorative Justice consultant
 
+#
 
 International and Domestic Memberships:
+
 - Global Advisory Committee Restorative Justice International
 - European Forum of Restorative Justice
 - Restorative Justice Aotearoa
@@ -26,6 +28,7 @@ International and Domestic Memberships:
 - Chairperson - Hei Tatau Pounamu Trust - post-sentence Restorative Justice
 - Trustee - Auckland Restorative Justice Trust
 
+Helen is a barrister who has worked in civil, criminal and youth jurisdictions. Her speciality is the therapeutic Courts and has a particular interest and skill in advocacy and training concerning Restoriative Justice. Helen's skill set extends to working with drug and alcohol impaired offenders in the AODTC Courts. She has been on the defence team since 2012 and was appointed to a small team of experienced lawyers for the purposes of conducting the AODTC pilot programme.
 
 <div className="Image__Small">
   <img
@@ -40,6 +43,8 @@ International and Domestic Memberships:
 ## Winsome Thornley
 
 #### Accredited Restorative Justice facilitator
+
+##
 
 District Court criminal judge alone trials, traffic, discharges without conviction, bill of rights, opposed bail applications.
 Winsome has successfully assisted drug or alcohol impaired clients apply to the AODTC.
