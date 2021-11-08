@@ -38,25 +38,3 @@ Helen is a barrister who has worked in civil, criminal and youth jurisdictions. 
   />
 </div>
 
----
-
-## Winsome Thornley
-
-#### Accredited Restorative Justice facilitator
-
-##
-
-District Court criminal judge alone trials, traffic, discharges without conviction, bill of rights, opposed bail applications.
-Winsome has successfully assisted drug or alcohol impaired clients apply to the AODTC.
-
-She was admitted to the bar in 2017 and started working for Helen Bowen as a junior criminal barrister in 2017.
-Before becoming a lawyer she worked in a variety of roles in London and New Zealand in the commercial property and import / export sector.
-She brings real world experience to her practice and is friendly, approachable and committed to achieving the best possible outcome for her clients.
-
-<div className="Image__Small">
-  <img
-    src="./images/article-image-2.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>

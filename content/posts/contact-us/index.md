@@ -1,18 +1,18 @@
 ---
-title: Contact Us
+title: Contact
 author: Helen Bowen,
 date: 2021-01-30
 hero: ./images/hero.jpg
 excerpt: Click here for our contact details for consultation or advice.
 ---
 
-## Helen Bowen & Winsome Thornley
+## Helen Bowen
 
 email:
-[bowenthornley@gmail.com](bowenthornley@gmail.com)
+[helen@bowen.org.nz](helen@bowen.org.nz)
 
 phone: **021997294**
 
-linkedIn: [Click here to find us](https://www.linkedin.com/in/bowenthornley-legal-3a0154205/)
+linkedIn: [Click here to connect](https://nz.linkedin.com/in/helen-bowen-bb5463123)
 
 ---

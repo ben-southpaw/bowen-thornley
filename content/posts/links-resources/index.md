@@ -31,9 +31,6 @@ What is restorative justice?
 Contact Helen: <br />
 [helen@bowen.org.nz](mailto:helen@bowen.org.nz)
 phone: **021997294** <br />
-Contact Winsome: <br />
-[winsome@bowen.org.nz](mailto:winsome@bowen.org.nz)
-phone: **0211565728**
 
 ## Publications & Presentations
 
